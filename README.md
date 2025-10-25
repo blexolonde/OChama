@@ -216,12 +216,8 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 
 **Developer:** [Your Name or Organization]
-**Email:** [[your.email@example.com](mailto:your.email@example.com)]
-**GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+**Email:** [[your.email@example.com](mailto:blexolonde1@gmail.com)]
+**GitHub:** [https://github.com/yourusername](https://github.com/blexolonde)
 **Website:** [ochama.web.app](https://ochama.web.app) *(coming soon)*
 
-```
 
----
-
-```
