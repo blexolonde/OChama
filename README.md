@@ -224,8 +224,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-✅ You can now:
-- Copy and paste this entire text into your project’s `README.md`.
-- Replace `[yourusername]`, `[Your Name or Organization]`, and email with your actual info.
-- Optionally, upload some screenshots into a `/screenshots` folder to make the visuals show on GitHub.
 ```
